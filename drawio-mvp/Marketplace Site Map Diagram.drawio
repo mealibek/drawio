@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T12:04:30.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Urekw2VFSpa1dX9N82eg" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T12:12:11.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lVGoYGfPcVGHsrPXlJL7" version="21.6.9" type="github">
   <diagram name="Page-1" id="pmae3yVPODafDrBMmQs1">
-    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCm9nZn1xHiflIMN1Gaj-12" value="Seller Auth Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="570" width="188" height="50" as="geometry" />
+          <mxGeometry x="320" y="550" width="188" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eCm9nZn1xHiflIMN1Gaj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eCm9nZn1xHiflIMN1Gaj-14" target="eCm9nZn1xHiflIMN1Gaj-16">
           <mxGeometry relative="1" as="geometry" />
@@ -107,16 +107,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCm9nZn1xHiflIMN1Gaj-14" value="Seller Dashboard Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="650" width="188" height="50" as="geometry" />
+          <mxGeometry x="320" y="630" width="188" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eCm9nZn1xHiflIMN1Gaj-15" value="Storefront Edit/Update Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="740" width="188" height="50" as="geometry" />
+        <mxCell id="eCm9nZn1xHiflIMN1Gaj-15" value="Storefront Add/Update/Delete Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eCm9nZn1xHiflIMN1Gaj-16" value="Products Edit/Update Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="188" height="50" as="geometry" />
+        <mxCell id="eCm9nZn1xHiflIMN1Gaj-16" value="Products Add/Update/Delete Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eCm9nZn1xHiflIMN1Gaj-20" value="Seller Account Settings" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="569" y="650" width="188" height="50" as="geometry" />
+          <mxGeometry x="559" y="630" width="188" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
