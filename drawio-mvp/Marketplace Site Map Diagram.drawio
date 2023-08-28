@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T13:27:35.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="d7Swin3UamE273Oo8qDN" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:28:53.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BX4c6bG8XN-r3iiIBoo6" version="21.6.9" type="github">
   <diagram name="Page-1" id="pmae3yVPODafDrBMmQs1">
-    <mxGraphModel dx="955" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         <mxCell id="a40wpVU0w3DmStkUdpJO-6" value="Cart Page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="300" width="184" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eCm9nZn1xHiflIMN1Gaj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a40wpVU0w3DmStkUdpJO-7" target="a40wpVU0w3DmStkUdpJO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a40wpVU0w3DmStkUdpJO-7" value="Order &amp;amp; Payment Page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="370" width="184" height="40" as="geometry" />
         </mxCell>
@@ -58,8 +61,13 @@
         <mxCell id="a40wpVU0w3DmStkUdpJO-9" value="Profille Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="70" y="160" width="184" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eCm9nZn1xHiflIMN1Gaj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a40wpVU0w3DmStkUdpJO-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="479.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="a40wpVU0w3DmStkUdpJO-11" value="Terms &amp;amp; conditions, Privacy Policy Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="123" y="460" width="184" height="40" as="geometry" />
+          <mxGeometry x="50" y="460" width="184" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a40wpVU0w3DmStkUdpJO-12" value="About Us Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="323" y="460" width="184" height="40" as="geometry" />
@@ -79,8 +87,13 @@
         <mxCell id="wylSf0W57zlD3DoviU_3-1" value="Store Listings Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="580" y="280" width="184" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eCm9nZn1xHiflIMN1Gaj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eCm9nZn1xHiflIMN1Gaj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="479.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eCm9nZn1xHiflIMN1Gaj-2" value="FAQ Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="521" y="460" width="184" height="40" as="geometry" />
+          <mxGeometry x="580" y="460" width="184" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eCm9nZn1xHiflIMN1Gaj-4" value="Profile Settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="230" width="184" height="40" as="geometry" />
